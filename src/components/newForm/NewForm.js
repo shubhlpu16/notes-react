@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Calendar from 'react-calendar';
 import withStyles from 'isomorphic-style-loader/withStyles';
-import style from './Calendar.sass';
+import style from 'react-calendar/dist/Calendar.css';
 import s from './NewForm.css';
 
 class NewForm extends Component {
