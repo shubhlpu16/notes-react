@@ -1,0 +1,10 @@
+{
+  "client": [
+    "/assets/vendors.7c19e6b3.chunk.js",
+    "/assets/client.00cfea35.js"
+  ],
+  "home": [
+    "/assets/vendors~home.51c8933c.chunk.js",
+    "/assets/home.06d9167e.chunk.js"
+  ]
+}
