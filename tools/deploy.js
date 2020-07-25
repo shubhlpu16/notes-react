@@ -19,7 +19,6 @@ const remote = {
   url: 'https://github.com/shubhlpu16/notes-react.git',
   branch: 'gh-pages',
   website: 'https://shubhlpu16.github.io/notes-react>/',
-  static: true,
 };
 
 // Heroku
