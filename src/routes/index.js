@@ -27,7 +27,7 @@ const routes = {
 
     // Provide default values for title, description etc.
 
-    route.title = `${route.title || 'Untitled Page'} - Notes App`;
+    route.title = `${route&&route.title || 'Untitled Page'} - Notes App`;
     route.description = route.description || '';
 
     return route;
